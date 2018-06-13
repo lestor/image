@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/image",
+	"name":        "lestor/image",
 	"type":        "kohana-module",
 	"description": "The official Kohana module for manipulating images",
 	"homepage":    "http://kohanaframework.org",
